@@ -53,6 +53,6 @@
 <p align="center">
 <a href="https://www.briankigo.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.briankigo.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/brian-kigo-07557a122/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Brian%20Kigo-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/brian_kigo/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-brian%_kigo__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/brian_kigo/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-brian_kigo__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:kigobrian@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kigobrian@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
