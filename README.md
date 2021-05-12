@@ -1,7 +1,7 @@
 <h2> Hey there 👋</h2>
 <br />
 
-Hi, I'm Brian Kigo, a Full Stack Developer 🚀 from Kenya.
+I'm Brian Kigo, a Full Stack Developer 🚀 from Kenya.
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
