@@ -1,18 +1,21 @@
 <h2> Hey there 👋! I'm Brian Kigo.</h2>
+<br />
+
+Hi, I'm Brian Kigo, a Full Stack Web Developer 🚀 from Kenya.
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; I am exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I am a computer scientist by passion though also professionally :).
-- 💼 &nbsp; I am currently developing dope shit using web, mobile technologies and also hacking stuffs
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 💼 &nbsp; I am currently developing dope shit using web/mobile technologies and also hacking stuffs
+- 🌱 &nbsp; Currently learning python 
+- 💬 &nbsp; Ping me about anything.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=007396)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - 🌐 &nbsp;
@@ -22,6 +25,8 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=007396)
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -32,12 +37,9 @@
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+  ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=007ACC)
+ - 🖥 &nbsp;
+   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 <br/>
 
