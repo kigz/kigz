@@ -34,7 +34,7 @@ Hi, I'm Brian Kigo, a Full Stack Web Developer 🚀 from Kenya.
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=#669933)
