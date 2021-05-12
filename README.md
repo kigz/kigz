@@ -1,4 +1,4 @@
-<h2> Hey there 👋!</h2>
+<h2> Hey there 👋</h2>
 <br />
 
 Hi, I'm Brian Kigo, a Full Stack Developer 🚀 from Kenya.
@@ -6,10 +6,10 @@ Hi, I'm Brian Kigo, a Full Stack Developer 🚀 from Kenya.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I am exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; I am currently developing dope shit using web/mobile technologies and also hacking stuffs.
 - 🎓 &nbsp; I am a computer scientist by passion though also professionally :).
-- 💼 &nbsp; I am currently developing dope shit using web/mobile technologies and also hacking stuffs
-- 🌱 &nbsp; Currently learning python 
+- 💼 &nbsp; I'm currently looking for opportunities.
+- 🌱 &nbsp; Currently learning python.
 - 💬 &nbsp; Ping me about anything.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
